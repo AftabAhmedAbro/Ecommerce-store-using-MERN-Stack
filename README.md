@@ -1,2 +1,3 @@
-# Ecommerce-101
-Hello World!
+#Ecommerce-store-using-MERN-Stack
+
+Fully developed E-commerce website using MERN Stack
